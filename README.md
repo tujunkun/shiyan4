@@ -1,4 +1,4 @@
-``
+```
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
     <CheckBoxPreference
@@ -46,5 +46,8 @@
             android:data="http://www.baidu.com"/>
     </Preference>
 </PreferenceScreen>
-``
+```
 ![image](https://github.com/tujunkun/shiyan4/blob/master/b3.png)
+![image](https://github.com/tujunkun/shiyan4/blob/master/b4.png)
+![image](https://github.com/tujunkun/shiyan4/blob/master/b5.png)
+![image](https://github.com/tujunkun/shiyan4/blob/master/b6.png)
